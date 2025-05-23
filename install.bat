@@ -1,7 +1,7 @@
 @echo off
 
 set "requirements_txt=%~dp0\requirements.txt"
-set "python_exec=..\..\..\python_embeded\python.exe"
+set "python_exec=..\..\venv\scripts\python.exe"
 
 echo Installing TECHNONATOR IMAGE PADDING ...
 
